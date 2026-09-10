@@ -19,7 +19,8 @@
             
             </br>
             <h2 style="font-family: 'Gloria Hallelujah', cursive;">Verifier le push et le pull avec GitHub</h2>
-        
+            <h3 style="font-family: 'Gloria Hallelujah', cursive;">Verifier le push depuis serveur</h3>
+
         </div>
     </div>
 </body>
