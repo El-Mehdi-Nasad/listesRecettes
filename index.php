@@ -16,6 +16,10 @@
         <div class="container">
             </br>
             <h1 style="font-family: 'Gloria Hallelujah', cursive;">Listes de recettes</h1>
+            
+            </br>
+            <h2 style="font-family: 'Gloria Hallelujah', cursive;">Verifier le push et le pull avec GitHub</h2>
+        
         </div>
     </div>
 </body>
