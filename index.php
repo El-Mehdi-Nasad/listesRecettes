@@ -15,7 +15,7 @@
     <div class="text-center">
         <div class="container">
             </br>
-            <h1 style="font-family: 'Gloria Hallelujah', cursive;">Listes recettes</h1>
+            <h1 style="font-family: 'Gloria Hallelujah', cursive;">Listes de recettes</h1>
         </div>
     </div>
 </body>
