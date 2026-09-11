@@ -20,6 +20,9 @@
             </br>
             <h2 style="font-family: 'Gloria Hallelujah', cursive;">Verifier le push et le pull avec GitHub</h2>
             <h3 style="font-family: 'Gloria Hallelujah', cursive;">Verifier le push depuis serveur</h3>
+            <h4 style="font-family: 'Gloria Hallelujah', cursive;">
+                Test du push depuis l ordi apres l application de la ssh
+            </h4>
 
         </div>
     </div>
