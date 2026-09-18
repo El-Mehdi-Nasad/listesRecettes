@@ -7,16 +7,14 @@
 </head>
 
 <body>
-           </br>
+     <header> <em> header </em> </header>
+     <nav> <strong> nav </strong> </nav>
+     <section>
            <h1>Listes de recettes</h1>
-               <p>Texte pour tester du css </p>
-            
-            </br>
-            <h2>Verifier le push et le pull avec GitHub</h2>
-	   
-            <h3>Verifier le push depuis serveur</h3>
-            <h4>Test du push depuis l ordi apres l application de la ssh</h4>
-
+         <article> article 1 </article>
+         <article> article 2 </article>
+     </section>
+     <footer> footer </footer>
 </body>
 
 </html>

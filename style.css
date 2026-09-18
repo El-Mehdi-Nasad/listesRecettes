@@ -1,8 +1,25 @@
-
-p { 
-     color: blue;
-     font-family: Arial;
+h1 {
+    color: white;
 
 }
 
+header {
+   background-color : #9EF33A;
+}
 
+nav {
+   background-color : #65F34A;
+}
+
+section {
+   background-color : #FC6486;
+}
+
+article {
+   background-color : #28F186;
+   margin : 100px
+}
+
+footer {
+   background-color : #2DF3F4;
+}
