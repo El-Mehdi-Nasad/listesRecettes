@@ -1,25 +1,32 @@
+body {
+  background-color: #F5E3E7;
+  color: #4A262F;
+}
+
 h1 {
-    color: white;
-
+  text-align: center;
 }
 
-header {
-   background-color : #9EF33A;
+h2 {
+  text-align: center;
 }
 
-nav {
-   background-color : #65F34A;
+strong {
+  color: #0f0e0f;
 }
 
-section {
-   background-color : #FC6486;
+a {
+  text-decoration: none;
+  color: #e9e4e5;
 }
-
-article {
-   background-color : #28F186;
-   margin : 100px
+table {
+  width: 100%; /* Le tableau prend toute la largeur disponible */
+  background-color: #4A262F; /* Couleur de fond du tableau */
+  color: #e9e4e5; /* Couleur du texte */
 }
-
-footer {
-   background-color : #2DF3F4;
+#centrer {
+  text-align: center;
+}
+.couleur {
+  color: #47020286;
 }
