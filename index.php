@@ -11,10 +11,10 @@
             <Nav>
                 <table>
                     <tr>
-                        <th><a href="#">Home</a></th>
-                        <th><a href="#">À propos</a></th>
-                        <th><a href="#">Blog</a></th>
-                        <th><a href="#">Contact</a></th>
+                        <th><a href="/listesRecettes/index.php">Home</a></th>
+                        <th><a href="/listesRecettes/">À propos</a></th>
+                        <th><a href="/listesRecettes/">Blog</a></th>
+                        <th><a href="/listesRecettes/">Contact</a></th>
                 </tr>
                 </table>
             </Nav>
@@ -27,7 +27,7 @@
             <section>
                 <article>
                     <h2>Article 1: Camping essentials</h2>
-                    <p>Packing the right gear is crucial for having a good time on your next camping trip. 
+                    <p id="marge">Packing the right gear is crucial for having a good time on your next camping trip. 
                     Make sure you bring the right stuff using the checklist below.</p>
                 <ul>
                    <li><strong>Tent:</strong> Don't get stuck sleeping outside. Check out some great <a class="couleur" href="#">tents.</a></li>
@@ -51,31 +51,6 @@
                 </ul> 
                 </article>
                 <hr>
-                <article>
-                    <h2>Article 2: Camping essentials</h2>
-                    <p>Packing the right gear is crucial for having a good time on your next camping trip. 
-                    Make sure you bring the right stuff using the checklist below.</p>
-                    <ul>
-                        <li><strong>Tent:</strong> Don't get stuck sleeping outside. Check out some great <a class="couleur" href="#">tents.</a></li>
-                        <li><strong>Sleeping bag:</strong> A warm sleeping bag can be the difference between a cozy, 
-                        restful night, and a miserable one.</li>
-                        <li><strong>Headlamp:</strong> Being able to see in the dark is important for safety.</li>
-                        <li><strong>Small stove:</strong> Sleeping outside doesn't mean eating only granola bars! 
-                        Cook yourself a warm meal with a small, portable gas stove.</li>
-                        <li><strong>Gas bottle:</strong> Your stove needs fuel. 
-                        Gas bottles can be purchased at any <a class="couleur" href="#">camping store.</a></li>
-                        <li><strong>Dehydrated meals:</strong> Fill a dehydrated meal bag with boiling water, 
-                        wait several minutes, et voilà; dinner is served.</li>
-                        <li><strong>Rain gear:</strong> Hiking while drenched is never fun, but sometimes it's unavoidable. 
-                        Packing the right kind of rain gear will help you stay as comfortable and warm as possible.</li>
-                        <li><strong>Water pack:</strong> If your hike is longer, you may prefer a camping-specific 
-                        water container instead of a traditional bottle. We put together some <a class="couleur" href="#">suggestions.</a></li>
-                        <li><strong>Hiking shoes</strong> It can be hard to pick a hiking shoe, 
-                        but your most versatile shoe often will come up to your ankle (or slightly hire) 
-                        and is comfortable to walk in, even at the end of the day. Tip: make sure to really 
-                        break in your hiking shoes before wearing them on a trek for the first time!</li>
-                    </ul> 
-                </article>
             </section>
         </main> 
         <footer></footer>

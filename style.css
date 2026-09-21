@@ -5,6 +5,7 @@ body {
 
 h1 {
   text-align: center;
+  font-size: 36px;
 }
 
 h2 {
@@ -23,10 +24,45 @@ table {
   width: 100%; /* Le tableau prend toute la largeur disponible */
   background-color: #4A262F; /* Couleur de fond du tableau */
   color: #e9e4e5; /* Couleur du texte */
+  font-size: 16px; /* Taille de la police */
+  /* font-weight: bold; /* Texte en gras */
+  /* font-style: italic; /* Texte en italique */
+  font-weight: 200;
+  font-family: Helvetica;
+  text-transform: uppercase;
+  table-layout: fixed; /* Les colonnes ont une largeur fixe */
+  }
+th:hover {/* Style du lien au survol */
+    color: black;
+    background-color: white;
+   /* text-transform: lowercase; /* Mettre le texte en minuscules */
+    font-weight: bold;
 }
+
+a:active {/* Style du lien lorsqu'il est cliqué */
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
 #centrer {
   text-align: center;
 }
 .couleur {
   color: #47020286;
+}
+li {
+  list-style: none;
+  margin-right: 30px;
+}
+
+#marge {
+  margin: 38px;
+}
+
+hr {
+  background-color: #4A262F;
+  margin-right: 40px;
+  margin-left: 40px;
+  
 }
